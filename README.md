@@ -15,4 +15,4 @@ terraform apply
 ```
 
 ## Results
-![output](https://github.com/mahimasharu2208/tf-null-provider-sample/blob/main/outputs/variable.png)
+![output](https://github.com/mahimasharu2208/tf-variables-sample/blob/main/outputs/variable.png)
